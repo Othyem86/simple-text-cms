@@ -1,0 +1,30 @@
+.jumbotron{
+    margin-top: 10px;
+    border-radius: 0px !important;
+}
+
+.b-white {
+    background-color: white;
+}
+
+.menu-bar { 
+    background-color: #386173;
+    color: white;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 33%;
+  }
+
+.post {
+    color: #386173;
+    font-size: 20px;
+    column-count: 3;
+    column-gap: 40px;
+    text-align: justify;
+}
